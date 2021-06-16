@@ -1,0 +1,77 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#Apps {
+
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+
+}
+
+#game {
+
+    width: 100%;
+    height: 800px;
+    background-image: linear-gradient(to bottom, #6bd17c, #83d67b, #99da7b, #adde7d, #c0e280, #bde689, #bbeb92, #b9ef9b, #a1f4af, #89f7c4, #72fadb, #5ffbf1);
+
+
+}
+
+#chatbot {
+
+    width: 100%;
+    height: 800px;
+    background-image: linear-gradient(to left, #d16ba5, #e07498, #e9808d, #ec8f85, #ec9e82, #eda97b, #ebb475, #e4c173, #d7cf6a, #c0de69, #9ced75, #5ffb8e);
+}
+
+img {
+    transition: transform .1s;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+
+}
+
+#dance {
+
+    width: 100%;
+    height: 800px;
+    background-image: linear-gradient(to right top, #d1bd6b, #d7ad4c, #df9a30, #e88415, #f26900, #f66703, #fa6407, #fe610b, #fd7b1e, #fc9132, #fba548, #fbb75f);
+}
+
+    #ArtApps{
+
+        width: 100%;
+        height: 800px;
+        background-image: linear-gradient(to left, #35ff00, #00f997, #00ebe3, #00d7ff, #00bfff, #00c0ff, #00c2ff, #00c3ff, #00dcf4, #00efca, #87fa91, #ecfb5f);
+}
+
+    #chatbot {
+
+        width: 100%;
+        height: 800px;
+        background-image: linear-gradient(to left, #d16ba5, #e07498, #e9808d, #ec8f85, #ec9e82, #eda97b, #ebb475, #e4c173, #d7cf6a, #c0de69, #9ced75, #5ffb8e);
+}
+
+
+h2{
+font-family:cursive;    
+    
+    
+}
